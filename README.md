@@ -1,6 +1,8 @@
 # Python-simple-optimize
 Calculate the most proper parameter to optimize RNN results.
 
+Choose the proper value of linear straight equation by the density of true and false points in the scatter plot.
+
 ## Parameter Detection
 
 The result of RNN in Machine learning, generally, capture lots of consider points.
